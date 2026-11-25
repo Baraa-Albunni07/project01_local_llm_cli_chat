@@ -1,0 +1,11 @@
+# Virtuelle Python-Umgebung & Cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Lokale Umgebungsvariablen / Keys
+.env
+
+# System-Dateien
+.DS_Store
